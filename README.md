@@ -1,15 +1,10 @@
 # 📚 StudyHub – Student Learning Resources Website
 
 \<p align="center">
-&#x20; \<strong>🎓 Learn Better. Grow Smarter. Achieve More.\</strong>
-&#x20; \<br>
-&#x20; \<em>A Student Learning Resources Platform Built with HTML5 and CSS3.\</em>
-\</p>
+&#x20; \*\*🎓 Learn Better. Grow Smarter. Achieve More.\*\*
 
-\<p align="center">
-&#x20; ![HTML5]\([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white))
-&#x20; ![CSS3]\([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white))
-&#x20; ![Project Status]\([https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge))
+*A Student Learning Resources Platform Built with HTML5 and CSS3.*
+
 \</p>
 
 ---
@@ -35,8 +30,8 @@ The website features a clean interface, attractive styling, and easy navigation 
 
 | Technology | Purpose                              |
 | ---------- | ------------------------------------ |
-| HTML5      | Website structure and content        |
-| CSS3       | Styling, layout, colors, and effects |
+| 🧡 HTML5   | Website structure and content        |
+| 💙 CSS3    | Styling, layout, colors, and effects |
 
 ## 📂 Project Structure
 
@@ -51,14 +46,14 @@ StudyHub/
 
 ## 📄 Website Pages
 
-### 🏠 Home Page
+### 🏠 1. Home Page
 
 - Introduction to StudyHub.
 - Welcome section.
 - Navigation menu.
 - Explore Resources button.
 
-### 📚 Resources Page
+### 📚 2. Resources Page
 
 - HTML5 learning information.
 - CSS3 learning information.
@@ -66,7 +61,7 @@ StudyHub/
 - Python learning information.
 - Java learning information.
 
-### 📩 Contact Page
+### 📩 3. Contact Page
 
 - Full Name field.
 - Email field.
@@ -97,7 +92,7 @@ Open `index.html` in your preferred web browser.
 
 This project was developed as part of **T.Y.B.Sc. (Information Technology) – Semester V, Web Application Development Activity 2**.
 
-It demonstrates practical implementation of HTML5, CSS3, multi-page website development, and hyperlinks.
+It demonstrates the practical implementation of HTML5, CSS3, multi-page website development, and hyperlinks.
 
 ## 👩‍💻 Developer
 
@@ -107,6 +102,8 @@ T.Y.B.Sc. Information Technology
 
 ---
 
-\<p align="center">   \<strong>📚 StudyHub – Your Learning Journey Starts Here!\</strong> \</p>
+\<p align="center">   📚 \*\*StudyHub – Your Learning Journey Starts Here!\*\*
 
-\<p align="center">   ⭐ If you find this project interesting, consider giving it a star! \</p>
+⭐ If you find this project interesting, consider giving it a star!
+
+\</p>
