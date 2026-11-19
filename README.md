@@ -3,13 +3,13 @@
 \<p align="center">
 &#x20; \<strong>🎓 Learn Better. Grow Smarter. Achieve More.\</strong>
 &#x20; \<br>
-&#x20; \<em>A simple and user-friendly platform for exploring programming and web development resources.\</em>
+&#x20; \<em>A Student Learning Resources Platform Built with HTML5 and CSS3.\</em>
 \</p>
 
 \<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">
-&#x20; \<img src="[https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)" alt="Project Status">
+&#x20; ![HTML5]\([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white))
+&#x20; ![CSS3]\([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white))
+&#x20; ![Project Status]\([https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge))
 \</p>
 
 ---
@@ -18,19 +18,18 @@
 
 **StudyHub** is a multi-page student learning resources website developed using HTML5 and CSS3.
 
-The website provides a simple and organized platform where students can explore programming subjects, access learning information, and connect through a contact page.
+It provides an organized platform where students can explore programming subjects, discover learning resources, and connect through a contact page.
 
-It features a clean interface, attractive styling, and easy navigation between different pages.
+The website features a clean interface, attractive styling, and easy navigation between different pages.
 
-## ✨ Features
+## ✨ Key Features
 
 - 🏠 **Home Page** – Welcoming introduction to the StudyHub platform.
-- 📖 **Learning Resources** – Information about HTML5, CSS3, JavaScript, Python, and Java.
+- 📚 **Learning Resources** – Information about HTML5, CSS3, JavaScript, Python, and Java.
 - 📩 **Contact Page** – Contact form for user messages and inquiries.
-- 🔗 **Easy Navigation** – Hyperlinks connecting all website pages.
-- 🎨 **Attractive UI** – Clean layout with modern colors and styling.
+- 🔗 **Easy Navigation** – Hyperlinks connecting all three pages.
+- 🎨 **Attractive Design** – Clean layout with modern colors and styling.
 - 🖱️ **Hover Effects** – Interactive navigation links and buttons.
-- 📱 **Responsive Styling** – CSS styling designed to adapt to different screen sizes.
 
 ## 🛠️ Technologies Used
 
@@ -52,14 +51,14 @@ StudyHub/
 
 ## 📄 Website Pages
 
-### 🏠 1. Home Page
+### 🏠 Home Page
 
 - Introduction to StudyHub.
-- Navigation menu.
 - Welcome section.
+- Navigation menu.
 - Explore Resources button.
 
-### 📚 2. Resources Page
+### 📚 Resources Page
 
 - HTML5 learning information.
 - CSS3 learning information.
@@ -67,34 +66,38 @@ StudyHub/
 - Python learning information.
 - Java learning information.
 
-### 📩 3. Contact Page
+### 📩 Contact Page
 
 - Full Name field.
 - Email field.
 - Message field.
 - Contact information.
 
-## 🚀 How to Run the Project
+## 🚀 Getting Started
 
-1. Clone the repository:
+Follow these steps to run the project locally.
 
-   ```bash
-   git clone https://github.com/vaishnavipandurangbelote/StudyHub.git
-   ```
+**1. Clone the repository**
 
-2. Open the project folder.
+```bash
+git clone https://github.com/vaishnavipandurangbelote/StudyHub.git
+```
 
-3. Open `index.html` in your web browser.
+**2. Navigate to the project folder**
 
-4. Navigate through the Home, Resources, and Contact pages.
+```bash
+cd StudyHub
+```
+
+**3. Run the website**
+
+Open `index.html` in your preferred web browser.
 
 ## 🎯 Project Purpose
 
-This project was developed as part of the **T.Y.B.Sc. (Information Technology) – Semester V, Web Application Development Activity 2**.
+This project was developed as part of **T.Y.B.Sc. (Information Technology) – Semester V, Web Application Development Activity 2**.
 
-It demonstrates the practical implementation of HTML5, CSS3, multi-page website design, and hyperlinks.
-
----
+It demonstrates practical implementation of HTML5, CSS3, multi-page website development, and hyperlinks.
 
 ## 👩‍💻 Developer
 
@@ -102,4 +105,8 @@ It demonstrates the practical implementation of HTML5, CSS3, multi-page website 
 
 T.Y.B.Sc. Information Technology
 
+---
+
 \<p align="center">   \<strong>📚 StudyHub – Your Learning Journey Starts Here!\</strong> \</p>
+
+\<p align="center">   ⭐ If you find this project interesting, consider giving it a star! \</p>
