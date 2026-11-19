@@ -1,0 +1,90 @@
+# 📚 StudyHub – Student Learning Resources Website
+
+\<p align="center">   \<b>🎓 Learn Better. Grow Smarter. Achieve More.\</b>   \<br>   \<i>A simple and user-friendly platform for exploring programming and web development resources.\</i> \</p>
+
+\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">   \<img src="[https://img.shields.io/badge/Status-Completed-success?style=for-the-badge](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)" alt="Project Status"> \</p>
+
+---
+
+## 🌟 About the Project
+
+**StudyHub** is a multi-page student learning resources website developed using HTML5 and CSS3.
+
+The website provides a simple and organized platform where students can explore programming subjects, access learning information, and connect through a contact page.
+
+It features a clean interface, attractive styling, and easy navigation between different pages.
+
+## ✨ Features
+
+- 🏠 **Home Page** – Welcoming introduction to the StudyHub platform.
+- 📖 **Learning Resources** – Information about HTML5, CSS3, JavaScript, Python, and Java.
+- 📩 **Contact Page** – Contact form for user messages and inquiries.
+- 🔗 **Easy Navigation** – Hyperlinks connecting all website pages.
+- 🎨 **Attractive UI** – Clean layout with modern colors and styling.
+- 🖱️ **Hover Effects** – Interactive navigation links and buttons.
+- 📱 **Responsive Styling** – CSS styling designed to adapt to different screen sizes.
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose                              |
+| ---------- | ------------------------------------ |
+| HTML5      | Website structure and content        |
+| CSS3       | Styling, layout, colors, and effects |
+
+## 📂 Project Structure
+
+```text
+StudyHub/
+│
+├── index.html       # Home Page
+├── resources.html   # Learning Resources Page
+├── contact.html     # Contact Page
+└── style.css        # Website Styling
+```
+
+## 📄 Website Pages
+
+### 🏠 1. Home Page
+
+- Introduction to StudyHub.
+- Navigation menu.
+- Welcome section.
+- Explore Resources button.
+
+### 📚 2. Resources Page
+
+- HTML5 learning information.
+- CSS3 learning information.
+- JavaScript learning information.
+- Python learning information.
+- Java learning information.
+
+### 📩 3. Contact Page
+
+- Full Name field.
+- Email field.
+- Message field.
+- Contact information.
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/vaishnavipandurangbelote/StudyHub.git
+   ```
+
+2. Open the project folder.
+
+3. Open `index.html` in your web browser.
+
+4. Navigate through the Home, Resources, and Contact pages.
+
+
+## 👩‍💻 Developer
+
+**Vaishnavi Pandurang Belote**
+
+T.Y.B.Sc. Information Technology
+
+\<p align="center">   \<b>📚 StudyHub – Your Learning Journey Starts Here!\</b> \</p>
