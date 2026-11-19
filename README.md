@@ -1,11 +1,8 @@
 # 📚 StudyHub – Student Learning Resources Website
 
-\<p align="center">
-&#x20; \*\*🎓 Learn Better. Grow Smarter. Achieve More.\*\*
+\<p align="center">   \<strong>🎓 Learn Better. Grow Smarter. Achieve More.\</strong>   \<br>   A Student Learning Resources Platform Built with HTML5 and CSS3 \</p>
 
-*A Student Learning Resources Platform Built with HTML5 and CSS3.*
-
-\</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-Website-orange?logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-Website-orange?logo=html5\&logoColor=white)" alt="HTML5">   \<img src="[https://img.shields.io/badge/CSS3-Styling-blue?logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3\&logoColor=white)" alt="CSS3">   \<img src="[https://img.shields.io/badge/Multi--Page-Website-green](https://img.shields.io/badge/Multi--Page-Website-green)" alt="Multi-Page Website">   \<img src="[https://img.shields.io/badge/Status-Completed-success](https://img.shields.io/badge/Status-Completed-success)" alt="Status"> \</p>
 
 ---
 
@@ -102,8 +99,5 @@ T.Y.B.Sc. Information Technology
 
 ---
 
-\<p align="center">   📚 \*\*StudyHub – Your Learning Journey Starts Here!\*\*
+\<p align="center">   \<strong>📚 StudyHub – Your Learning Journey Starts Here!\</strong>   \<br>   ⭐ If you find this project interesting, consider giving it a star! \</p>
 
-⭐ If you find this project interesting, consider giving it a star!
-
-\</p>
